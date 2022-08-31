@@ -1,4 +1,3 @@
-# a dungeon game? WATCHU KNOW?
 import random
 from tabnanny import check
 from turtle import numinput
